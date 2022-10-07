@@ -1,5 +1,3 @@
-Iris/.ipynb_checkpoints/Untitled-checkpoint.ipynb
-Boston_house_price/.ipynb_checkpoints/regression-checkpoint.ipynb
-Face_detection/5celeb/*
 *-checkpoint.ipynb
-
+*.h5
+Face_detection/5celeb/*
