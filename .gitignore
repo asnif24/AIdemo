@@ -1,3 +1,4 @@
 *-checkpoint.ipynb
 *.h5
 Face_detection/5celeb/*
+test_*
