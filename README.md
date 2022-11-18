@@ -1,18 +1,21 @@
 # AI demo
----
 ### Iris classification  
-+ sklearn
++ scikit-learn
   - decision tree classification
   - kmeans clustering
 
 ### Boston house price 
-+ sklearn
++ scikit-learn
   - decision tree regression
   
 ### Titanic prediction
-+ sklearn
++ scikit-learn
   - random forest classifier
 
-### MNIST  
+### MNIST 
++ tensorflow keras
+  - multilayer perceptron (MLP)
+  - CNN
 
 ### cifar10
++ tensorflow keras
